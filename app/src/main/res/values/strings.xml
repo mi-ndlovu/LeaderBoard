@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Leaderboard</string>
+    <string name="hint_project_on_github_link">Project on GITHUB (link)</string>
+    <string name="hint_email_address">Email Address</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="form_submit_button">Submit</string>
+    <string name="toolbar_header">Project Submission</string>
+    <string name="image_description">gads logo</string>
+    <string name="toobar_header_appname">LEADERBOURD</string>
+    <string name="submit">Submit</string>
+    <string name="submission_not_successful">Submission not Successful</string>
+    <string name="failure_image">failure Image</string>
+    <string name="badge">badge</string>
+    <string name="name">name</string>
+    <string name="description">description</string>
+    <string name="yes">Yes</string>
+    <string name="are_you_sure">Are you sure ?</string>
+    <string name="submission_successful">Submission Successful</string>
+    <string name="done">done</string>
+    <string name="launcher_logo">launcher_logo</string>
+</resources>
